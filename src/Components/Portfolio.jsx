@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/building.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "There is an backgroung image of building consisting beautiful design of bricks casting an etraordinary image of art.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "10 Things to Know About cyberseurity and microsoft tools",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This article will help in undersatanding fundamentals of cybersecurity and indroduce tools for security.",
+    url: "https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Devlopment for overall improvment",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This fundamental enchrimchment edorse your knownledge in the field of web devlopment also fade a wide range of creativity.",
+    url: "https://github.com/yankovalenko94/Webdev2019",
   },
   {
-    title: "My Resume Site",
+    title: "My Linkdein site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This website will contain all the information about my carres project and work based on my skills.",
+    url: "https://www.linkedin.com/in/sahil-raj-2a87b6253/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My youtube channel",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This channel provide content on azure, cybersecurity and aws.",
+    url: "https://youtube.com/@sahilraj5672?si=CwUe_-5g9HtQLfqd",
   },
 ];
 
